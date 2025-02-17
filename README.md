@@ -11,8 +11,10 @@
   <img align="justify" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" style="margin-right: 15px;"/>
 
   <img align="justify" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 15px;"/>
-
+  
   <img align="justify" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" style="margin-right: 15px;"/>
+  
+  <img align="justify" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="margin-right: 15px;"/>
 </div>
 <br/>
 
