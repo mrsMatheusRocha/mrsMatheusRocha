@@ -2,7 +2,7 @@
 ## My name is Matheus Rocha Sousa! 
 - :mortar_board: Currently studying Information Systems at FIAP.
 - :house: I live in São Paulo city.
-- :computer: Currently learning React, JavaScript, Java, HTML and CSS.
+- :computer: Passionate about Front-End Development and constantly learning new technologies.
 
 ### Technologies I use in my daily life
 <div style="display: inline_block" style="gap: 15px;"><br/>
