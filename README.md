@@ -15,6 +15,9 @@
   <img align="justify" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" style="margin-right: 15px;"/>
   
   <img align="justify" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" style="margin-right: 15px;"/>
+  
+  <img align="justify" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" style="margin-right: 15px;"/>
+
 </div>
 <br/>
 
