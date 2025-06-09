@@ -34,7 +34,14 @@
 ### GitHub Stats
 <a href="https://github.com/Marthplays">
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=mrsMatheusRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsMatheusRocha&layout=compact&langs_count=7&theme=dracula"/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JeromeHardaway&show_icons=true&theme=radical" alt="Jerome's GitHub stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JeromeHardaway&theme=radical" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeHardaway&layout=compact&theme=radical" alt="Top Langs" />
+  </p>
 </div>
 
