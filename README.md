@@ -38,7 +38,7 @@ Learning:    Context API, React Router, Supabase, Component Architecture
 - 🎮 **Assassin’s Quiz** – A quiz web app built with React + Next.js, featuring dynamic routes, game logic, and deployed via Vercel
 - 🛠️ **OrganoTS** – Team management app using React + TypeScript, component architecture, and deployed on Vercel
 - 🛍️ **Meteora** –  Functional e-commerce built with React, Context API, and Vite, featuring cart logic and optimized
-- 🧰 **Portfolio Website** – Personal site crafted with HTML, CSS, and JavaScript, showcasing projects, blog, and hosted on GitHub Pages
+- 🧰 **Portfolio Website** – Personal site crafted with HTML, CSS, and JavaScript, showcasing projects, and hosted on GitHub Pages
 - 🎬 **Cinetag** – React app for movie cataloging, with API integration, custom styling, and local data persistence
 
 ---
