@@ -30,7 +30,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 <a href="https://github.com/Marthplays">
 <div>
   <p align="center">
