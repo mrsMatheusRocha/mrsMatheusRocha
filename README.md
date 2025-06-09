@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+<h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
 ## My name is Matheus Rocha Sousa! 
 - :mortar_board: Currently studying Information Systems at FIAP.
 - :house: I live in São Paulo city.
