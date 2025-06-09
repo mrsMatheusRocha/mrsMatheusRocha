@@ -8,7 +8,7 @@
 <p align="center">
   <a href="(https://mrsmatheusrocha.github.io/Portfolio/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-My Website-informational?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/matheus-rocha-sousa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/VetsWhoCode" target="_blank"><img src="https://img.shields.io/badge/Email-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/VetsWhoCode" target="_blank"><img src="https://img.shields.io/badge/Email-%231DA1F2.svg?style=for-the-badge&logo=email&logoColor=white"/></a>
 </p>
 
 ---
