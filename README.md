@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
-## My name is Matheus Rocha Sousa! 
+<h1 align="center">👋 Hello! I'm Matheus Rocha Sousa</h1>
 - :mortar_board: Currently studying Information Systems at FIAP.
 - :house: I live in São Paulo city.
 - :computer: Passionate about Front-End Development and constantly learning new technologies.
@@ -44,4 +43,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeHardaway&layout=compact&theme=radical" alt="Top Langs" />
   </p>
 </div>
+
+---
+
+### 💬 Let’s Connect
+
+- 🌐 Website → [Portfolio](https://mrsmatheusrocha.github.io/Portfolio/)
+- 💼 LinkedIn → [linkedin.com/in/matheus-rocha-sousa](https://www.linkedin.com/in/matheus-rocha-sousa/)
+
+---
 
