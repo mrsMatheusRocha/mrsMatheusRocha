@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello! I'm Matheus Rocha Sousa</h1>
-- :mortar_board: Currently studying Information Systems at FIAP.
-- :house: I live in São Paulo city.
-- :computer: Passionate about Front-End Development and constantly learning new technologies.
+
+<p align="center">
+  <b>Front-End Developer in Progress • UI Enthusiast • Code Learner • React Explorer</b><br>
+  Transformando designs em interfaces reais enquanto construo minha jornada no desenvolvimento web.
+</p>
 
 ### Technologies I use in my daily life
 <div style="display: inline_block" style="gap: 15px;"><br/>
