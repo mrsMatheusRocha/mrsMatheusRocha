@@ -37,13 +37,13 @@ Learning:    Context API, React Router, Firebase, Component Architecture
 <a href="https://github.com/Marthplays">
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrsmatheusrochasousa&show_icons=true&theme=radical" alt="Jerome's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mrsmatheusrocha&show_icons=true&theme=radical" alt="Jerome's GitHub stats" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mrsmatheusrochasousa&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mrsmatheusrocha&theme=radical" alt="GitHub Streak" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmatheusrochasousa&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmatheusrocha&layout=compact&theme=radical" alt="Top Langs" />
   </p>
 </div>
 
