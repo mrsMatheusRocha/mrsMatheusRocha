@@ -33,7 +33,7 @@ Learning:    Context API, React Router, Supabase, Component Architecture
 
 ---
 
-### 🚀 Projects
+### 🚀 Main Projects
 
 - 🎮 **Assassin’s Quiz** – A quiz web app built with React + Next.js, featuring dynamic routes, game logic, and deployed via Vercel
 - 🛠️ **OrganoTS** – Team management app using React + TypeScript, component architecture, and deployed on Vercel
