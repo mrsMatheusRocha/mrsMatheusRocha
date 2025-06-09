@@ -5,22 +5,13 @@
   Turning designs into real interfaces while building my journey in web development.
 </p>
 
-### Technologies I use in my daily life
-<div style="display: inline_block" style="gap: 15px;"><br/>
-  <img align="justify" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" style="margin-right: 15px;"/>
+### 🧠 What I Do
 
-  <img align="justify" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" style="margin-right: 15px;"/>
+- ⚛️ **Front-End Development** — React • TypeScript • JavaScript • GitHub • Vite
+- 🎨 **UI Styling** — HTML • CSS • Tailwind CSS • SASS • Responsive design • Figma • Accessible design
+- 🚀 **Learning & Building** — Next.js • Accessibility (WCAG) • Component Architecture • Git Workflow
 
-  <img align="justify" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 15px;"/>
-  
-  <img align="justify" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" style="margin-right: 15px;"/>
-  
-  <img align="justify" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" style="margin-right: 15px;"/>
-  
-  <img align="justify" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin-right: 15px;"/>
-
-</div>
-<br/>
+---
 
 ### Where to find me
 
