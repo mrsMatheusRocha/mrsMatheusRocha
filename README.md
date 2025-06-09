@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Front-End Developer in Progress • UI Enthusiast • Code Learner • React Explorer</b><br>
-  Transformando designs em interfaces reais enquanto construo minha jornada no desenvolvimento web.
+  Turning designs into real interfaces while building my journey in web development.
 </p>
 
 ### Technologies I use in my daily life
