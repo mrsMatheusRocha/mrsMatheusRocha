@@ -49,10 +49,11 @@ Learning:    Context API, React Router, Supabase, Component Architecture
 
 ---
 
-### 💬 Let’s Connect
+### 💬  
+**Let’s Connect**
 
-🌐 [Portfolio](https://mrsmatheusrocha.github.io/Portfolio/)  
-💼 [LinkedIn](https://www.linkedin.com/in/matheus-rocha-sousa/)
+🌐 Website → [Portfolio](https://mrsmatheusrocha.github.io/Portfolio/)  
+💼 LinkedIn → [LinkedIn](https://www.linkedin.com/in/matheus-rocha-sousa/)
 
 ---
 
