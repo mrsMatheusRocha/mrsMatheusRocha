@@ -26,7 +26,7 @@
 ```ts
 Languages: JavaScript, TypeScript, Java, SQL  
 Frontend: React, Next.js, HTML, CSS, Tailwind CSS, SASS, Bootstrap  
-Tools & Infra: Git, GitHub, Vite, GitHub Pages, Vercel  
+Tools/Infra: Git, GitHub, Vite, GitHub Pages, Vercel  
 Design: Figma, Styled Components, Responsive UI, Accessible HTML  
 Learning: Context API, React Router, Firebase, Component Architecture
 ```
