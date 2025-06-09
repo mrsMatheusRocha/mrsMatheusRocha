@@ -34,8 +34,7 @@ Learning:    Context API, React Router, Supabase, Component Architecture
 ---
 
 ### 📊 GitHub Stats
-<a href="https://github.com/Marthplays">
-<div>
+
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mrsmatheusrocha&show_icons=true&theme=radical" alt="Jerome's GitHub stats" />
   </p>
@@ -45,12 +44,10 @@ Learning:    Context API, React Router, Supabase, Component Architecture
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmatheusrocha&layout=compact&theme=radical" alt="Top Langs" />
   </p>
-</div>
 
 ---
 
-### 💬  
-**Let’s Connect**
+### 💬 Let’s Connect
 
 🌐 Website → [Portfolio](https://mrsmatheusrocha.github.io/Portfolio/)  
 💼 LinkedIn → [LinkedIn](https://www.linkedin.com/in/matheus-rocha-sousa/)
